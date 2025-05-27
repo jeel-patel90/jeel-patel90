@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @jeel-patel90  
 - 🌟 **Passionate Creator:** From web apps to YouTube Shorts, I bring ideas to life with creativity and tech! 🚀🎥  
 - 🎯 **What I Do:**  
-  - Build innovative student-focused platforms with React & Firebase 🖥️📚  
-  - Create jaw-dropping YouTube Shorts about real-life drama and accidents 😱🎬  
-  - Simplify complex tech concepts for beginners 💡👶  
+  - Currently working at Wzero Infotech. 
+  - Lowkey wanna be a content creator, but like… do I have extrovert energy? 😭🎬
+  - Oh i will work my butt off if you pay me well...  
 - 🌱 **Currently Exploring:**  
   - Real-time messaging & notifications for seamless communication 💬🔔  
   - Cool animations and designs with Tailwind CSS & React 💅✨  
