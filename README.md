@@ -4,8 +4,8 @@
   - Currently working at Wzero Infotech. 
   - Lowkey wanna be a content creator, but like… do I have extrovert energy? 😭🎬
 - 🌱 **Currently Exploring:**  
-  - Real-time messaging & notifications for seamless communication 💬🔔  
-  - Cool animations and designs with Tailwind CSS & React 💅✨  
+  - ReactJS in advance 💬🔔  
+  - Cool animations and designs with Tailwind CSS & React  
 - 💞 **Looking to Collaborate On:**  
   - Web projects that make a difference 🌐💡  
   - Content that entertains and inspires 🎙️🌟  
