@@ -3,7 +3,6 @@
 - 🎯 **What I Do:**  
   - Currently working at Wzero Infotech. 
   - Lowkey wanna be a content creator, but like… do I have extrovert energy? 😭🎬
-  - Oh i will work my butt off if you pay me well...  
 - 🌱 **Currently Exploring:**  
   - Real-time messaging & notifications for seamless communication 💬🔔  
   - Cool animations and designs with Tailwind CSS & React 💅✨  
