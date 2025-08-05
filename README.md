@@ -13,9 +13,6 @@
   - Email me at **bhalujeel9@gmail.com** 📩  
   - DM me on Instagram @jeell.9 📸🤳  
 - 😄 **Pronouns:** He/Him  
-- ⚡ **Fun Fact:**  
-  - My laptop has a Ryzen heart 💻🔥 and my creativity runs on endless caffeine ☕✨
-  - Even as a listener, I might still get on your nerves when I open my mouth.
 - 🌍 **Let’s Connect:** I’m here to inspire, build, and collaborate. Let’s make the world a better place—one project at a time! 🌎🤝  
 
 
