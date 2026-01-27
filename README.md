@@ -3,7 +3,6 @@
 -  **Currently Working At:** Wzero Infotech  
 -  **Currently Exploring:**  
   - Advanced ReactJS & Next.js  
-  - Modern UI/UX with Tailwind CSS & React animations  
 -  **Looking to Collaborate On:**  
   - Innovative web projects that make a real impact  
 -  **How to Reach Me:**  
