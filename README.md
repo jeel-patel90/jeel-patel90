@@ -1,5 +1,5 @@
 -  Hi, I’m @jeel-patel90  
--  **Passionate Developer:** I love turning ideas into impactful web applications with modern technologies. 🚀  
+-  **Passionate Developer:** I love turning ideas into impactful web applications with modern technologies.   
 -  **Currently Working At:** Wzero Infotech  
 -  **Currently Exploring:**  
   - Advanced ReactJS & Next.js  
@@ -9,4 +9,4 @@
 -  **How to Reach Me:**  
   - Email: **bhalujeel9@gmail.com** 📩  
   - Instagram: [@jeelll.9](https://instagram.com/jeelll.9) 📸🤳  
--  **Let’s Connect:** I’m passionate about building, learning, and collaborating to make a difference—one project at a time. 🌎🤝  
+-  **Let’s Connect:** I’m passionate about building, learning, and collaborating to make a difference—one project at a time. 
