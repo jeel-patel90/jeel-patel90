@@ -7,5 +7,5 @@
   - Innovative web projects that make a real impact  
 -  **How to Reach Me:**  
   - Email: **bhalujeel9@gmail.com** 📩  
-  - Instagram: [@jeelll.9](https://instagram.com/jeelll.9) 📸🤳  
+  - Instagram: [@jeelll.9in](https://instagram.com/jeelll.9) 📸🤳  
 -  **Let’s Connect:** I’m passionate about building, learning, and collaborating to make a difference—one project at a time. 
