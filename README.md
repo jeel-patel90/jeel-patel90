@@ -9,11 +9,11 @@
   Tools: banner.deno.dev, or a custom SVG/Figma export hosted in the repo as /assets/banner.png
 -->
 
-<img src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/assets/banner.png" width="100%" alt="banner"/>
+<img src="https://raw.githubusercontent.com/jeel-patel90/jeel-patel90/main/assets/banner.png" width="100%" alt="banner"/>
 
 <br/>
 
-### night trains, dead libraries, and the quiet architecture of software
+### night trains, dead libraries, and the quiet architecture of real-time systems
 
 </div>
 
@@ -35,12 +35,14 @@
 
 ### what i'm building
 
-I'm a **Frontend Engineer** who kept walking past the edge of the frontend —
-into APIs, hardware, and the systems that make interfaces actually mean something.
+I'm a **Frontend Developer** who kept walking past the edge of the frontend —
+into multi-tenant architecture, live data streams, and the systems that make
+an interface trustworthy at 3am, not just pretty in a demo.
 
-Most of my work lives inside **industrial ERP dashboards** and **manufacturing software** —
-places where a UI bug isn't cosmetic, it's a machine that doesn't print a label,
-a barcode that doesn't scan, a factory floor waiting on a screen.
+Most of my work lives where state changes *without a page refresh* —
+SaaS platforms with role-based access controls, dashboards fed by MQTT and
+WebSockets, screens that have to be right in real time because someone,
+somewhere, is watching a machine through them.
 
 I like that kind of pressure. It makes you build honestly.
 
@@ -51,16 +53,16 @@ I like that kind of pressure. It makes you build honestly.
 <td width="50%" valign="top">
 
 **currently**
-- Designing dashboard systems for real manufacturing floors
-- Integrating thermal printers & QR/barcode pipelines into production UI
-- Building background services that talk to hardware, not just APIs
+- Architecting multi-tenant SaaS frontends that scale cleanly per organization
+- Building real-time dashboards on WebSockets & MQTT, not polling and hope
+- Migrating and hardening large React codebases onto Next.js
 
 </td>
 <td width="50%" valign="top">
 
 **learning toward**
 - System design — thinking in architectures, not pages
-- State management at scale, not just in theory
+- Frontend performance engineering at a codebase, not component, level
 - Becoming a *product engineer* — someone who can own a system end to end
 
 </td>
@@ -81,21 +83,20 @@ I like that kind of pressure. It makes you build honestly.
 
 ![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=2965F1)
-![React Router](https://img.shields.io/badge/React_Router-0d1117?style=for-the-badge&logo=reactrouter&logoColor=CA4245)
+![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Context API](https://img.shields.io/badge/Context_API-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Custom Hooks](https://img.shields.io/badge/Custom_Hooks-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-**systems**
+**real-time & data**
 
 ![REST APIs](https://img.shields.io/badge/REST_APIs-0d1117?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Background_Services-0d1117?style=for-the-badge&logo=node.js&logoColor=339933)
-![Hardware Integration](https://img.shields.io/badge/Hardware_Integration-0d1117?style=for-the-badge&logo=raspberrypi&logoColor=A22846)
-![Barcode](https://img.shields.io/badge/QR_%2F_Barcode_Systems-0d1117?style=for-the-badge&logo=barcode&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-0d1117?style=for-the-badge&logo=socketdotio&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-0d1117?style=for-the-badge&logo=mqtt&logoColor=660066)
 
 **craft**
 
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
-![Figma](https://img.shields.io/badge/UI%2FUX-0d1117?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
@@ -134,37 +135,29 @@ on my own terms, for as long as I choose.
 <br/>
 
 <details>
-<summary><b>01 — Industrial ERP Dashboard</b> <i>(production, manufacturing sector)</i></summary>
+<summary><b>01 — IoTrope</b> <i>(organization management SaaS)</i></summary>
 <br/>
 
-A real-time operations dashboard used on an active factory floor —
-inventory, order tracking, and production status, built to survive
-bad networks, tired operators, and long shifts.
+A multi-tenant SaaS platform for managing organizations at scale — I built
+the multi-tenant architecture from the ground up, designed the RBAC system
+that governs who can see and touch what, and shipped real-time monitoring
+dashboards that operators actually trust. Later led the migration from
+React.js to Next.js and the performance work that came with it.
 
-`React` `Next.js` `REST APIs` `Reusable Component Architecture` `State Management`
+`Next.js` `React.js` `Multi-Tenant Architecture` `RBAC` `Real-Time Dashboards`
 
 </details>
 
 <details>
-<summary><b>02 — Thermal Print & Barcode Pipeline</b> <i>(hardware integration)</i></summary>
+<summary><b>02 — S-Square</b> <i>(solar monitoring system)</i></summary>
 <br/>
 
-A background service bridging web UI and physical hardware — generating,
-queuing, and printing QR/barcode labels in real time, with failure recovery
-built in from day one, not bolted on after.
+An industrial monitoring platform for solar operations — configuration
+dashboards that control real hardware, MQTT-based data pipelines feeding
+live state into the UI, and rendering performance tuned for screens that
+stay open all day, every day.
 
-`Background Services` `API Integrations` `QR / Barcode Systems` `Thermal Printer Integration`
-
-</details>
-
-<details>
-<summary><b>03 — Component System for Internal Tools</b> <i>(architecture)</i></summary>
-<br/>
-
-A reusable, responsive component library built to bring order to a set of
-internal tools that previously didn't share a single visual language.
-
-`Design Systems` `Responsive UI` `Component Architecture` `Scalability`
+`React.js` `MQTT` `Real-Time Updates` `API Integrations` `Performance Optimization`
 
 </details>
 
@@ -182,10 +175,10 @@ internal tools that previously didn't share a single visual language.
 <summary><b>roadmap</b></summary>
 <br/>
 
-- [x] Master frontend architecture at production scale
-- [x] Ship hardware-integrated systems, not just interfaces
+- [x] Master multi-tenant architecture and RBAC at production scale
+- [x] Ship real-time systems on WebSockets & MQTT, not polling and hope
 - [ ] Move from *building features* to *owning systems*
-- [ ] Learn backend depth well enough to design full-stack products alone
+- [ ] Go deep enough on backend to design full-stack products alone
 - [ ] Build one product, end-to-end, that solves a real problem for real people
 - [ ] Work — or build — from a city I've never lived in
 
@@ -205,7 +198,7 @@ internal tools that previously didn't share a single visual language.
 - I'm drawn to horror and psychological mystery because both are really about *systems breaking down*.
 - Late trains and empty libraries are my favorite writing rooms.
 - I've never finished a project because I was chasing a deadline. Only because I was chasing an idea.
-- I romanticize Europe more than is reasonable for someone who codes ERP dashboards for a living.
+- I romanticize Europe more than is reasonable for someone who builds real-time dashboards for a living.
 - I debug best after midnight, when the noise of the day finally goes quiet.
 
 <br/>
@@ -218,9 +211,8 @@ internal tools that previously didn't share a single visual language.
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/USERNAME)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.dev)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:bhalujeel9@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/jeel-bhalu-5ba66431b/)
 
 </div>
 
@@ -232,12 +224,12 @@ internal tools that previously didn't share a single visual language.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=6e7681&text_color=8b949e" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api?username=jeel-patel90&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=6e7681&text_color=8b949e" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeel-patel90&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e" width="40%" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=github-compact&bg_color=0d1117&color=6e7681&line=8b949e&point=ffffff&hide_border=true" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jeel-patel90&theme=github-compact&bg_color=0d1117&color=6e7681&line=8b949e&point=ffffff&hide_border=true" width="90%"/>
 
 </div>
 
