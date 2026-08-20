@@ -1,7 +1,4 @@
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/jeel-patel90/jeel-patel90/main/assets/banner.svg" width="100%" alt="banner"/>
-
 <br/>
 
 # Jeel Patel
